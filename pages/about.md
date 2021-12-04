@@ -25,11 +25,11 @@ permalink: /about/
     - Likelion 8기 롯데 중앙 해커톤
     - 롯데 신제품 시식 구독 서비스
     - 월 구독 서비스, 맛 mbti 유형 테스트 제공
-    * html, css, javascript, python(django), heroku
+    - html, css, javascript, python(django), heroku
 <br>
 <br>
 
 3. <a href="https://github.com/onetouch-ds/onetouch-workspace">원터치</a>
     - 덕성 WISET ICT 프로젝트
     - 블록체인 기반 덕성여대 투표 웹사이트
-    * html, css, javascript, python(django), aws ec2
+    - html, css, javascript, python(django), aws ec2
