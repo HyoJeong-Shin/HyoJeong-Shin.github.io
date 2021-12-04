@@ -13,7 +13,6 @@ description: Some description.
 
 * **덕성여자대학교 컴퓨터공학과 재학**
 * **멋쟁이사자처럼 8기**
-* **멋쟁이사자처럼 9기 운영진**
 <br>
 
 ### Project
